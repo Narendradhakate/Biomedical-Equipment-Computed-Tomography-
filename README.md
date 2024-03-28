@@ -1,1 +1,1 @@
-# Biomedical-Equipment-Computed-Tomography-
+# Biomedical Equipment:Computed Tomography
